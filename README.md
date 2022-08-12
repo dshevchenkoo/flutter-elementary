@@ -32,4 +32,4 @@ Our main sponsor is Surf.
 
 ## Maintainer
 
-[Mikhail Zotyev](https://github.com/MbIXjkee)
+[Mikhail Zotyev](https://github.com/MbIXjkee) 
